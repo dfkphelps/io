@@ -1,0 +1,10 @@
+/Users/dianaphelps/code/testing/testgifs/testgif.gif
+/Users/dianaphelps/code/testing/testgifs/test1.webp
+/Users/dianaphelps/code/testing/testgifs/test2.webp
+/Users/dianaphelps/code/testing/testgifs/test3.gif
+/Users/dianaphelps/code/testing/testgifs/test4.webp
+/Users/dianaphelps/code/testing/testgifs/test5.webp
+/Users/dianaphelps/code/testing/testgifs/test6.gif
+/Users/dianaphelps/code/testing/testgifs/test7.webp
+/Users/dianaphelps/code/testing/testgifs/test8.webp
+/Users/dianaphelps/code/testing/testgifs/test9.webp
