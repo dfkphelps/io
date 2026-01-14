@@ -960,8 +960,8 @@ def test_functions():
     """
     Test the load_video and save_video functions with specified paths.
     """
-    input_path = '/Users/dianaphelps/code/testing/testgifs/testgif.gif'
-    output_path = '/Users/dianaphelps/code/testing/testgifs/tesoutput.gif'
+    input_path = 'testgif.gif'
+    output_path = 'tesoutput.gif'
     
     print("=" * 70)
     print("TESTING vidio.py FUNCTIONS")
